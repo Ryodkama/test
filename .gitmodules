@@ -1,0 +1,3 @@
+[submodule "test-sub_module"]
+	path = test-sub_module
+	url = git@github.com:Ryodkama/test-sub_module.git
